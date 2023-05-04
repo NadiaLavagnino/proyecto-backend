@@ -1,0 +1,108 @@
+[
+  {
+    "id": 1,
+    "idCategoria": 1,
+    "nombre": "jean-1",
+    "marca": "Levis",
+    "precio": 40000,
+    "stock": 15,
+    "img": "jean1.jpg"
+  },
+  {
+    "id": 2,
+    "idCategoria": 1,
+    "nombre": "jean-2",
+    "marca": "Cuesta.Blanca",
+    "precio": 28000,
+    "stock": 12,
+    "img": "jean2.jpg"
+  },
+  {
+    "id": 3,
+    "idCategoria": 1,
+    "nombre": "jean-3",
+    "marca": "Wanama",
+    "precio": 60000,
+    "stock": 10,
+    "img": "jean3.jpg"
+  },
+  {
+    "id": 4,
+    "idCategoria": 2,
+    "nombre": "remera-lisa",
+    "marca": "Cuesta.Blanca",
+    "precio": 15000,
+    "stock": 30,
+    "img": "remera-lisa.jpg"
+  },
+  {
+    "id": 5,
+    "idCategoria": 2,
+    "nombre": "remera-dragon",
+    "marca": "Levis",
+    "precio": 25000,
+    "stock": 20,
+    "img": "remera-dragon.jpg"
+  },
+  {
+    "id": 6,
+    "idCategoria": 2,
+    "nombre": "remera-negra",
+    "marca": "Wanama",
+    "precio": 45000,
+    "stock": 10,
+    "img": "remera-negra.jpg"
+  },
+  {
+    "id": 7,
+    "idCategoria": 3,
+    "nombre": "campera-azul",
+    "marca": "Levis",
+    "precio": 80000,
+    "stock": 10,
+    "img": "campera-azul.jpg"
+  },
+  {
+    "id": 8,
+    "idCategoria": 3,
+    "nombre": "tapado",
+    "marca": "Cuesta.Blanca",
+    "precio": 60000,
+    "stock": 12,
+    "img": "tapado.jpg"
+  },
+  {
+    "id": 9,
+    "idCategoria": 3,
+    "nombre": "campera-amarilla",
+    "marca": "Wanama",
+    "precio": 150000,
+    "stock": 5,
+    "img": "campera-amarilla.jpg"
+  },
+  {
+    "id": 1,
+    "name": "jean",
+    "price": 25000
+  },
+  {
+    "id": 1,
+    "name": "jean",
+    "price": 25000
+  },
+  {
+    "id": 1,
+    "name": "jean",
+    "price": 25000
+  },
+  {
+    "id": 1,
+    "name": "jean",
+    "price": 25000
+  },
+  {
+    "id": 1,
+    "name": "jean",
+    "price": 25000
+  }
+]
