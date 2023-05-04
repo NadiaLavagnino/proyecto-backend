@@ -2,6 +2,9 @@ const http= require('http')
 
 const server = http.createServer((req,res) => {
     console.log(req.url)
+    if(req.url == '/'){
+        res.end('hola mundo con http node')
+    }
 })
 
 server.listen(3030, () => {
